@@ -6,13 +6,24 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangggg, today is your birthday dayy🎉, so happy birthday day sayangg🥳, hari ini adalah hari lahir kamu🤩, dan hari ini adalah hari kamu bertambah usia✨, semoga dengan nya kamu bertambah usia, kamu menjadi anak yang Sholehah 🧕, yang berbakti kepada orang tua🙂‍↕️, jadi kakak yang hebat buat Refan🫡, jadi adik yang penyayang buat Abang😚, di lancarin rezeki nya🌻, di sehatkan kan jiwa dan raga nya🌼, di lancarkan seluruh urusan nya📋,di kasih perlindungan sama Allah dari Bahaya dunia serta Bahaya akhirat 🛡️, selalu bahagia 🥰, dan terus jadi diri kamu sendiri ya🍯🐝
 
-Terus berkembang menjadi lebih baik ya sayangkuuu💗, fokus sama impian kamu🌌, setiap impian kamu semoga menjadi kenyataan satu per satu 🌠, setiap langkah kamu di permudah sama allah 🕌, bukan hanya umur yang berkembang, tapi pemikiran dan prilaku kamu juga haru terus berkembang ya💬, menjadi wanita yang rendah hati 💟, kurangin kebiasaan jelek nya ❎, jangan terlalu fokus sama kelebihan orang lain terkadang Kupu-kupu tidak bisa melihat keindahan sayapnya sendiri, tetapi orang lain bisa🦋. Orang lain itu aku🫶, aku percaya sama kamu, kamu punya potensial sayangg, jadi jangan ngeremehin diri kamu sendiri ya, kalau kamu sendiri aja ga percaya sama diri kamu sendiri gimana kamu bisa berhasil?so mulai hari ini selalu percaya sama diri kamu sendiri ya💜, I’ll be here to support you 😊. Setiap kamu ngalamin  kegagalan jangan lupa terus bangkit dan belajar dari kesalahan 💫
+Hei bocil, 
+Selamat karna udah bertahan sejauh ini
+Aku harap kamu bahagia terus ya
+Hadirmu didunia ini
+adalah kebahagiaan,
+adalah cinta
+adalah hadiah yang tak ternilai
+Kehadiranmu membawa kebahagiaan untuk orang-orang disekitarmu. 🤍
 
-Makasih juga karna udah bertahan sama aku🤧, jadi pengingat aku 🔊, selalu sabar menghadapi aku☺️, setelah aku mengenal kamu aku jadi banyak belajar tentang memahami, memperlakukan dan lain lain, aku ga janji tapi aku akan ngelakuin yang terbaik buat kamu 🙇,  jaga hubungan ini  yaa, kita lakuin yang terbaik buat kebaikan kita sendiri ya 💞
+Ingat nggak dulu pertama kali kita ketemu? Aku nggak nyangka kalau orang yang awalnya cuma teman ngobrol ini bisa jadi sebegitu pentingnya buat aku sekarang. Kita udah ngelewatin banyak hal bareng, baik yang seneng-seneng sampe yang bikin stres. 🥴🤪
+Umur kamu sekarang bertambah 1 tahun, kamu tau ga, kamu itu kuat, kamu hebat, kamu udah sejauh ini ngejalanin hari² kamu dari mulai kamu masi dirahim mama sampe kamu udah sedewasa ini, makasi yaa sayang kamu udah mau ngejalanin hari hari kamu bareng aku walaupun kita banyak marahannya tapi sama aku terus ya sayang, kalo ga sama kamu rasanya itu kurang soalnya hehehe, kamu bahagia ga pas hari special kamu ini kita masih bareng bareng begini? aku harap pas aku ulang tahun kamu masih sama aku ya sayang intinya makasi banyak. Hehe 😆😅😂 Aku juga berharap diumur kamu yang ini, pemikirannya didewasain lagi, sikap childish nya di kurangin, menjadi lebih bijak lagi dan aku berharap apapun doa atau keinginan kamu bisa kamu terwujud, dan jangan lupa nikmati semua proses untuk mencapainya.🤗🥰🤍  
 
-I love you more, and I will always love you from here 💜🩵🖤🤍
+Terimakasih ya telah menambah keceriaan di dunia ini, kamu yang telah tunjukkan pada dunia ini, walaupun jiwa sedang rapuh tapi kamu tetap berjuang dan bertahan hingga saat ini, hebattt 🥰😍💕 Tetap semangat karena aku yakin semua keinginan kamu bisa tercapai, dan jangan berkecil hati kalau semisalnya kamu gagal, karna kegagalan adalah sebuah proses dan kunci dari semua kesuksesan, percayalah. Tetaplah bermimpi setinggi langit, dan berusahalah untuk meraih semua impianmu aku bakalan tetep disini jadi sistem pendukung yang 10000000% (pokoknya full) yang baik untuk kamu. Sayang always healthy and wish u all the best, inget. aku selalu di sinii untuk kamu, di sampingmu. selalu. AND I LOVE U IN EVERY UNIVERSE, SAYANG. 🤍🤗
+
+"Do your best at every opportunity tahat you have. A strong hope can make your dreams come true." 
+
+Dari aku yang selalu ingin melihat kamu bahagia. 🤍
 
   `;
 
@@ -83,7 +94,7 @@ I love you more, and I will always love you from here 💜🩵🖤🤍
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Reihani Nayla Mumtazah (iskandar) 💖
+                  eMTe'eR💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hanya kamu di hatiku, sayang 🥹

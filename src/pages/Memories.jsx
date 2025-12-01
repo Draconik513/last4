@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 import vidioBunga from "../assets/videos/vidioBungadudu.mp4";
-import fotoKenangan from "../assets/images/couple.jpg";
+import videoKenangan from "../assets/videos/videoKenangan.mp4";
 
 const Memories = ({ isIOS }) => {
   const [flowerBloom, setFlowerBloom] = useState(false);
@@ -14,12 +14,15 @@ const Memories = ({ isIOS }) => {
         transition={{ duration: 0.5 }}
         className="max-w-5xl w-full text-center"
       >
+        {/* VIDEO KENANGAN PENGGANTI FOTO */}
         <motion.div whileHover={{ scale: isIOS ? 1 : 1.02 }} className="mb-8">
-          <img
-            src={fotoKenangan}
-            alt="Kita Berdua"
+          <video
+            src={videoKenangan}
+            autoPlay
+            loop
+            muted
+            playsInline
             className="w-full max-w-md mx-auto rounded-xl shadow-2xl border-4 border-white"
-            style={{ transform: "translateZ(0)" }}
           />
         </motion.div>
 
@@ -38,7 +41,7 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              💌 Maaf yaa sayang...
+              💌 Maaf ya sayang...
             </motion.p>
 
             <motion.p
@@ -46,10 +49,9 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Maaf 3 hari terakhir ini aku ngediemin kamu, aku cuman pengen
-              nenangin diri aku aja supaya emosi aku stabil lagi kaya sekarang,
-              untuk ke depan nya aku usahain ga bakal begitu lagi ya sekalipun
-              aku pengen sendiri, aku bakal tetep ngabarin kamu kok nanti.
+              Mungkin aku belum bisa jadi partner yang kamu inginkan, masih suka
+              buat kamu kesel, syebel, overthinking ataupun terkesan aku ga
+              peduli. 😔
             </motion.p>
 
             <motion.p
@@ -57,20 +59,8 @@ const Memories = ({ isIOS }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              Maaf kalau usaha aku masih kurang di mata kamu, aku selalu
-              ngelakuin yang terbaik buat kamu kok, maaf kalau aku suka kurang
-              ngertiin kamu, kurang memperlakukan kamu sesuai sama kemauan kamu,
-              maaf kalau aku suka nge buat kamu nangis, dan maaf untuk semua
-              permasalahan yang pernah kita hadapi, tetapi dari semua itu aku
-              usahain akan terus belajar menjadi lebih baik buat kamu 💕
-            </motion.p>
-
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 2.4 }}
-            >
-              Maaf dan makasih buat semuanya sayang 💜🖤
+              Tolong untuk tetap tumbuh menjadi lebih baik untuk diri kita
+              masing² ya sayang. 🤗
             </motion.p>
           </div>
         </motion.div>
