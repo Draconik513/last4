@@ -64,7 +64,7 @@ const HomePage = ({ isIOS }) => {
 
           <div className="mt-8 p-4 bg-white/80 backdrop-blur-sm rounded-lg max-w-md mx-auto border border-pink-200">
             <p className="text-pink-800 italic">
-              "Who's birthday today? yapp! pacar aku hari ini ultah, chapter 25 unlocked 🔐🔓🎉 Another chapter begins congrats level-up day of your life. 🤍 " 
+              "Who's birthday ? Yappsshh! pacar akuuuwwww yang ultah, chapter 25 unlocked 🔐🔓🎉 Another chapter begins congrats level-up day of your life. 🤍" 
             </p>
             <p className="mt-4 text-right text-pink-600 font-medium">
               ~ Lia
