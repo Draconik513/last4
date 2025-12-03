@@ -67,7 +67,7 @@ const HomePage = ({ isIOS }) => {
               "Who's birthday ? Yappsshh! pacar akuuuwwww yang ultah, chapter 25 unlocked 🔐🔓🎉 Another chapter begins congrats level-up day of your life. 🤍" 
             </p>
             <p className="mt-4 text-right text-pink-600 font-medium">
-              ~ Lia
+              ~ Tante
             </p>
           </div>
         </motion.div>
